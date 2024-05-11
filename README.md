@@ -1,8 +1,3 @@
-# Image-Super-Resolution
-
-Certainly! Here's a sample README.md file based on the provided code:
-
----
 
 # Image Super Resolution using Convolutional Neural Networks
 
